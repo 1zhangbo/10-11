@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1602230055 source:c:\users\asus\desktop\fib\main.cpp
+	<stdio.h>
+	<cstdio>
+	<cstring>
+	<string>
+	<set>
+	<iostream>
+	<cmath>
+	<stack>
+	<queue>
+	<vector>
+	<algorithm>
+
