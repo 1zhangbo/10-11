@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1577324531 source:c:\users\asus\desktop\12.0\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<cstdio>
+	<iostream>
+
