@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602227351 source:c:\users\asus\desktop\digui\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+
